@@ -6,4 +6,4 @@ cleaning and merging data
 
 "tidydata.txt" is the cleaned data
 
-"code.md" gives the description of the process done.
+"codebook.md" gives the description of the process done.
